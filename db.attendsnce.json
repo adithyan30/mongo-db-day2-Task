@@ -1,0 +1,37 @@
+[
+  {
+    "class_date": "2020-10-11",
+    "topic": ["array", "string"],
+    "students_attended": [1, 2, 6],
+    "task_name": "password reset flow",
+    "task_submitted_student": [1, 2, 6]
+  },
+  {
+    "class_date": "2020-10-12",
+    "topic": ["array", "string"],
+    "students_attended": [3, 4, 5],
+    "task_name": "form task",
+    "task_submitted_student": [3, 4, 5]
+  },
+  {
+    "class_date": "2020-10-15",
+    "topic": ["map", "redcue"],
+    "students_attended": [3, 4, 2],
+    "task_name": "react redux task",
+    "task_submitted_student": [3, 4, 2]
+  },
+  {
+    "class_date": "2020-10-16",
+    "topic": ["filter", "react"],
+    "students_attended": [3, 4, 2, 6],
+    "task_name": "React Formik Validation Task",
+    "task_submitted_student": [3, 4, 2, 6]
+  },
+  {
+    "class_date": "2020-10-28",
+    "topic": ["redux", "node.js"],
+    "students_attended": [3, 2, 6],
+    "task_name": "url shortener application",
+    "task_submitted_student": [3, 2, 6, 1]
+  }
+]

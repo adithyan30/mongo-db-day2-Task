@@ -1,0 +1,27 @@
+[
+    {
+      "drive_date": "2020-09-11",
+      "drive_attended_student": [1, 2, 6],
+      "company_name": "xxx"
+    },
+    {
+      "drive_date": "2020-10-12",
+      "drive_attended_student": [3, 4, 5],
+      "company_name": "xxx"
+    },
+    {
+      "drive_date": "2020-10-15",
+      "drive_attended_student": [3, 4, 2],
+      "company_name": "xxx"
+    },
+    {
+      "drive_date": "2020-10-16",
+      "drive_attended_student": [3, 4, 2, 6],
+      "company_name": "xxx"
+    },
+    {
+      "drive_date": "2020-10-28",
+      "drive_attended_student": [3, 2, 6],
+      "company_name": "xxx"
+    }
+  ]
